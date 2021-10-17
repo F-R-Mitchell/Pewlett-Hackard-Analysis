@@ -20,3 +20,6 @@ The image below is the unique titles table which takes the data from the employe
 The image below is the combination of the employees and department employees tables. This table was created to determine if certain employees were eligable for being a mentor. The table is filtered by the employees who are born in 1965.
 
 ![emp_deptemp_table](https://user-images.githubusercontent.com/87910875/137645679-043dce7f-3694-40da-af65-5a918c2a4e24.png)
+  
+  * They're about 1550 employees who are eligable to become mentors each of them also holding senior level positions.
+  * Having a large number of employees who can become mentors is great news. Creating a mentorship program would help new hires become more acquainted with their new postion whether they've been promoted or are new hires.
