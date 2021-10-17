@@ -23,3 +23,10 @@ The image below is the combination of the employees and department employees tab
   
   * They're about 1550 employees who are eligable to become mentors each of them also holding senior level positions.
   * Having a large number of employees who can become mentors is great news. Creating a mentorship program would help new hires become more acquainted with their new postion whether they've been promoted or are new hires.
+
+## Summary
+
+The image below is how many positons per title will need to be filled.
+
+![unique_titles_table_count](https://user-images.githubusercontent.com/87910875/137645877-018ed98a-fe91-4184-889c-d144dd03bf80.png)
+
