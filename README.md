@@ -15,4 +15,4 @@ The image below is the unique titles table which takes the data from the employe
 
   * The amount of employees that are within the retirement age are in the tens of thousands who also mostly hold senior level titles. This could increase the difficulty     of finding adequent hires to fill their positions
   
-  * 
+  * The cost of a mass retirement within the company will be massive mostly due to the loss of many employees but also due to the cost of retirement packages for        employees who have been with the compnay for an extensive period
