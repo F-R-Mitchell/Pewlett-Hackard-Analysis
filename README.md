@@ -22,7 +22,8 @@ The image below is the combination of the employees and department employees tab
 ![emp_deptemp_table](https://user-images.githubusercontent.com/87910875/137645679-043dce7f-3694-40da-af65-5a918c2a4e24.png)
   
   * They're about 1550 employees who are eligable to become mentors each of them also holding senior level positions.
-  * Having a large number of employees who can become mentors is great news. Creating a mentorship program would help new hires become more acquainted with their new postion whether they've been promoted or are new hires.
+  
+  * Having a large number of employees who can become mentors is great news. Creating a mentorship program would help new hires become more acquainted with their new postion whether they've been promoted or are new hires. Mentors helping train employees would also help reduce the cost of filling the position due to there being a direct connection between new employee and old rather. 
 
 ## Summary
 
@@ -30,3 +31,4 @@ The image below is how many positons per title will need to be filled.
 
 ![unique_titles_table_count](https://user-images.githubusercontent.com/87910875/137645877-018ed98a-fe91-4184-889c-d144dd03bf80.png)
 
+Since the number of employees who are eligable for becoming mentors is 1550 while the number of positions that need to be filled are in the tens of thousands, I don't think it would be enough to mentor the next generation. Even if every employee agreed to become a mentor and recieved 10 mentees, it would only account for 15,500 positons.
